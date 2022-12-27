@@ -40,8 +40,8 @@ When many customers order their set of products that they want we can combine th
 2. Example of path finding in warehouse for given orders
 <br><br/>
 <p float="left">
-  <img src="Images/8.png" height="300" width="400" hspace="15">
-  <img src="Images/9.png" height="300" width="400" hspace="15">
+  <img src="Images/8.png" height="300" width="350" hspace="15">
+  <img src="Images/9.png" height="300" width="350" hspace="15">
 </p>
 <br><br/>
 
